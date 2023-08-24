@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, after graduating from Part III in Cambridge and CentraleSupélec in France where I studied Applied Mathematics and Statistics, I am now looking for a job in Data Science in the UK (London or Cambridge)
 
 <!--
 **louislacapere/louislacapere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
