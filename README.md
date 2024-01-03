@@ -1,5 +1,4 @@
-### Hi, after graduating from Part III in Cambridge and CentraleSupélec in France where I studied Applied Mathematics and Statistics, I am now looking for a job in Data Science in the UK (London or Cambridge)
-
+### Hi, I am a Cambridge Maths Part III and CentraleSupélec graduate passionate about everything to do with machine learning and data science! 
 <!--
 **louislacapere/louislacapere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
